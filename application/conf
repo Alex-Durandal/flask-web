@@ -1,0 +1,3 @@
+SQLALCHEMY_DATABASE_URI = 'mysql://root@localhost:3306/test?charset=utf8mb4'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
+IMAGE_DIR='/Users/alex/PycharmProjects/flask-web/webapp/application/static/images/photo'
